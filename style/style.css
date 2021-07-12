@@ -32,6 +32,7 @@
 .info > h1 {
   color: #fefffc;
   font-size: 3rem;
+  margin-bottom: 30px;
 }
 .info > h1 > span {
   color: #ad5dd7;
@@ -44,6 +45,7 @@
   width: 80%;
   display: flex;
   justify-self: flex-end;
+  margin-top: 100px;
 }
 .bulet1 {
   width: 100%;
@@ -75,13 +77,13 @@
 .overlay {
   position: absolute;
   border-radius: 0 2rem 2rem 0rem;
-  width: 40%;
-  height: 70%;
+  width: 38.3%;
+  height: 65%;
   background-color: rgba(222, 75, 235, 0.5);
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 15px;
   text-align: center;
   position: absolute;
   bottom: 20px;
